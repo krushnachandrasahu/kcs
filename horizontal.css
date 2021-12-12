@@ -1,0 +1,26 @@
+hr {
+    border-bottom-style: none ;
+    border-top-style: dotted;
+    border-color: rgb(106, 6, 6);
+    border-width: 8px;
+    
+    width: 30%;
+}
+.newbar{
+    background-color: #00ffff;
+    border: solid rgb(12, 39, 213);
+    border-style: solid;
+    height: 80px;
+    width: 100%;
+
+
+}
+body
+{
+    background-color:whitesmoke;
+ color:  #000000 ;
+ font-size: 20px;
+  font-family: Apple Chancery, cursive;
+}
+
+    
